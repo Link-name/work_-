@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.AssemblyInfo.cs
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\bin\Debug\net6.0\Задача_на_уроке.exe
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\bin\Debug\net6.0\Задача_на_уроке.deps.json
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\bin\Debug\net6.0\Задача_на_уроке.runtimeconfig.json
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\bin\Debug\net6.0\Задача_на_уроке.dll
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\bin\Debug\net6.0\Задача_на_уроке.pdb
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.dll
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\refint\Задача_на_уроке.dll
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.pdb
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\Задача_на_уроке.genruntimeconfig.cache
+C:\Users\Professional\Desktop\new_work\Задача_на_уроке\obj\Debug\net6.0\ref\Задача_на_уроке.dll

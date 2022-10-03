@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\new_work\PP\bin\Debug\net6.0\PP.exe
+C:\Users\Professional\Desktop\new_work\PP\bin\Debug\net6.0\PP.deps.json
+C:\Users\Professional\Desktop\new_work\PP\bin\Debug\net6.0\PP.runtimeconfig.json
+C:\Users\Professional\Desktop\new_work\PP\bin\Debug\net6.0\PP.dll
+C:\Users\Professional\Desktop\new_work\PP\bin\Debug\net6.0\PP.pdb
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.AssemblyInfo.cs
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.dll
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\refint\PP.dll
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.pdb
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\PP.genruntimeconfig.cache
+C:\Users\Professional\Desktop\new_work\PP\obj\Debug\net6.0\ref\PP.dll

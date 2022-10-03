@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\bin\Debug\net6.0\Двух_ мерн.exe
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\bin\Debug\net6.0\Двух_ мерн.deps.json
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\bin\Debug\net6.0\Двух_ мерн.runtimeconfig.json
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\bin\Debug\net6.0\Двух_ мерн.dll
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\bin\Debug\net6.0\Двух_ мерн.pdb
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.AssemblyInfo.cs
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.dll
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\refint\Двух_ мерн.dll
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.pdb
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\Двух_ мерн.genruntimeconfig.cache
+C:\Users\Professional\Desktop\new_work\Двух_ мерн\obj\Debug\net6.0\ref\Двух_ мерн.dll
